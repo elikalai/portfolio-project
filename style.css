@@ -1,0 +1,20 @@
+.Navbar {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+img {
+    width: 200px;
+    display: inline;
+}
+
+body {
+    background-color: rgb{160, 181, 221}
+}
