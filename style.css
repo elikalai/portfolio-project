@@ -9,12 +9,99 @@
     z-index: 1000;
 }
 
+#nform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    z-index: 10;
+    text-align: center;
+    flex-direction: column;
+    position: relative;
 
-img {
-    width: 200px;
-    display: inline;
 }
 
-body {
-    background-color: rgb{160, 181, 221}
+.name-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-me  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-heading {
+    text-align: center;
+}
+.video {
+    text-align:center; 
+}
+.games {
+    text-align: center; 
+}
+.game-heading {
+    text-align: center;
+}
+.sports {
+    text-align: center;
+}
+.sports-pg {
+    text-align: center;
+}
+.sports-heading {
+    text-align: center;
+}
+.food-heading {
+    text-align: center;
+}
+.food-pg {
+    text-align: center;
+}
+.food-img {
+    text-align: center;
+}
+.main-heading {
+    text-align: center;
+}
+.main-img  {
+    text-align: center;
+}
+.index-h2 {
+    text-align: center;
+}
+.quote {
+    text-align: center;
+}
+.port-p1 {
+    display: flex;
+    text-align: center; 
+}
+.port-p1-img {
+    text-align: center;
+}
+.project-uno {
+    text-align: center;
+}
+.project-dos {
+    text-align: center;
+}
+.port-p2  {
+    text-align:  center;
+}
+.port-p2-img  {
+    text-align: center;
+}
+.p3-heading {
+    text-align: center;
+}
+.port-p3 {
+    text-align: center;
+}
+.port-p3-img {
+    text-align: center;
+}
+.things-created {
+    text-align: center;
 }
