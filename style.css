@@ -32,4 +32,76 @@
     justify-content: center;
     align-items: center;
 }
-
+.about-heading {
+    text-align: center;
+}
+.video {
+    text-align:center; 
+}
+.games {
+    text-align: center; 
+}
+.game-heading {
+    text-align: center;
+}
+.sports {
+    text-align: center;
+}
+.sports-pg {
+    text-align: center;
+}
+.sports-heading {
+    text-align: center;
+}
+.food-heading {
+    text-align: center;
+}
+.food-pg {
+    text-align: center;
+}
+.food-img {
+    text-align: center;
+}
+.main-heading {
+    text-align: center;
+}
+.main-img  {
+    text-align: center;
+}
+.index-h2 {
+    text-align: center;
+}
+.quote {
+    text-align: center;
+}
+.port-p1 {
+    display: flex;
+    text-align: center; 
+}
+.port-p1-img {
+    text-align: center;
+}
+.project-uno {
+    text-align: center;
+}
+.project-dos {
+    text-align: center;
+}
+.port-p2  {
+    text-align:  center;
+}
+.port-p2-img  {
+    text-align: center;
+}
+.p3-heading {
+    text-align: center;
+}
+.port-p3 {
+    text-align: center;
+}
+.port-p3-img {
+    text-align: center;
+}
+.things-created {
+    text-align: center;
+}
